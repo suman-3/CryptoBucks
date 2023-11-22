@@ -4,8 +4,8 @@
 
 This repository contains final code for Crypto Screener Application in ReactJS. <br />
 
-For Demo and Final Code checkout following link👇: <br />
-[Crypto Screener Application in ReactJS](https://devdreaming.com/videos/build-crypto-screener-app-with-react-tailwind-css) <br />
+For Demo checkout following link👇: <br />
+[Crypto Screener Application in ReactJS](https://crypto-bucks-coral.vercel.app/) <br />
 
 💙 Visit my instagram page to see more videos like this [Web Mastery](https://www.instagram.com/web_mastery03/)
 
